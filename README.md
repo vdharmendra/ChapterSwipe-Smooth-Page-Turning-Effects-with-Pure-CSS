@@ -31,7 +31,7 @@
 <br>
 <span>Desktop Desgin</span><br/>
 <a href="" target="_blank" >
-<img src="./img/bookCover.gif" width="575px"/>
+<img src="./img/bookListSection.gif" width="575px"/>
 </a>
 <br />
 <span>Desktop Desgin ui-ux Layout</span><br/>
