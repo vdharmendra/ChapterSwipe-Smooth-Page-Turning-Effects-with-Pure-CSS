@@ -36,12 +36,12 @@
 <br />
 <span>Desktop Desgin ui-ux Layout</span><br/>
 <a href="" target="_blank" >
-<img src="./img/bookCover.png" width="475px"/>
+<img src="./img/bookListSection.png" width="475px"/>
 </a>
 <br />
 <span>Desktop Desgin</span><br/>
 <a href="" target="_blank" >
-<img src="./img/bookHover.png" width="475px"/>
+<img src="./img/bookListHoverSection.png" width="475px"/>
 </a>
 <br />
 <span>Cover</span><br/>
