@@ -1,50 +1,47 @@
-# ✨ ChapterSwipe – Smooth Page-Turning Effects with Pure CSS 📖
+# ✨ Interactive Book Stack 📚 📖
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/dhirukumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmendraverma95) 
 
 
 
-**ChapterSwipe** is a modern, interactive UI that mimics the feeling of flipping through book pages, powered entirely by CSS. This project demonstrates smooth, realistic page-turning animations, perfect for creating digital books, magazines, or any content that benefits from a dynamic, book-inspired layout.
+# Interactive Book Stack 📚
 
+An interactive vertical book display UI for book-selling websites. Books are displayed in a sleek vertical layout, and on hover, the title and author (bookmaker) are revealed, enhancing user engagement and browsing experience.
 
+## 🌟 Features
+
+- Vertical scrolling book layout
+- Smooth hover effect to reveal book title and author
+- Responsive design for desktop and mobile
+- Lightweight and customizable component
+- Easily integratable into any book-selling platform
 ---
 
-## 🚀 Features
+## 🛠️ Technologies Used
 
-- 📚 **Realistic Page-Turning Animation** – Smooth and elegant CSS-powered page transitions.
-- 🌐 **Responsive Design** – Fully responsive across mobile, tablet, and desktop devices.
-- 🎯 **Interactive UI** – Engaging user experience with intuitive page navigation.
-- 🎨 **No JavaScript Required** – The page-flipping effect is achieved with pure CSS.
-- 🧑‍💻 **Easy to Customize** – Perfect for digital books, portfolios, or creative content.
+- HTML5
+- CSS3 (with transitions)
+- JavaScript (optional for enhanced interactions)
 
----
-
-## 🛠️ Tech Stack
-
-- **HTML5**
-- **CSS3 (Flexbox, Transitions, Transformations)**
-- **SASS (optional for easier management of styles)**
-
----
 ---
 
 <br>
 <span>Desktop Desgin</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/226242665/Interactive-Book-Stack" target="_blank" >
 <img src="./img/bookListSection.gif" width="575px"/>
 </a>
 <br />
 <span>Desktop Desgin ui-ux Layout</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/226242665/Interactive-Book-Stack" target="_blank" >
 <img src="./img/bookListSection.png" width="475px"/>
 </a>
 <br />
 <span>Desktop Desgin</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/226242665/Interactive-Book-Stack" target="_blank" >
 <img src="./img/bookListHoverSection.png" width="475px"/>
 </a>
 <br />
 <span>Cover</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/226242665/Interactive-Book-Stack" target="_blank" >
 <img src="./img/cover.png" width="575px"/>
 </a>
